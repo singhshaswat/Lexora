@@ -1,4 +1,4 @@
-q# Lexora
+# Lexora
 
 **Lexora** is an AI-powered vocabulary learning application that helps users master new words through personalized daily tasks and interactive tutoring. The platform uses intelligent task generation, priority-based learning, and AI evaluation to create an effective vocabulary learning experience.
 
